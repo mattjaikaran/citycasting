@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.formButton {
+  width: 130px;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button.green {
+  background-color: #26a69a;
+  color: white;
+}
+button.green:hover {
+  background-color: #00796b;
+}
